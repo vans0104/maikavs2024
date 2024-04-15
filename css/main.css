@@ -1,8 +1,40 @@
 
+@media (min-width: 768px) and (max-width: 1024px) { 
+
+}
+
 .navbar-brand{
+    color: #8D7B68;
+    text-align: center;
+}
+
+.navbar{
+    font-family: monospace;
+
+}
+
+.nav-brand:hover{
+    color: #A4907C;
+}
+
+.btn{
+    color: white;
+    background-color: #A4907C;
+
+}
+.btn:hover{
     color: #8D7B68;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) { 
-    
+section{
+    background-color: #A4907C;
+    margin: auto;
+    padding: 5em;
 }
+
+h2{
+    color: antiquewhite;
+    font-size: 30px;
+    font-family: monospace;
+}
+

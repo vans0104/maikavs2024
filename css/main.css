@@ -8,11 +8,6 @@
     text-align: center;
 }
 
-.navbar{
-    font-family: monospace;
-    text-align: left;
-}
-
 .nav-brand:hover{
     color: #A4907C;
 }
@@ -26,17 +21,11 @@
     color: #8D7B68;
 }
 
+h2{
+    font-family: monospace;
+    color: antiquewhite;
+}
+
 section{
     background-color: #A4907C;
 }
-
-h2{
-    color: antiquewhite;
-    font-size: 30px;
-    font-family: monospace;
-}
-
-.col{
-    width: 100%;
-}
-

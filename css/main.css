@@ -10,6 +10,7 @@
 
 .navbar{
     font-family: monospace;
+    text-align: left;
 }
 
 .nav-brand:hover{
@@ -27,8 +28,6 @@
 
 section{
     background-color: #A4907C;
-    margin: auto;
-    padding: 5em;
 }
 
 h2{
